@@ -8,7 +8,7 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<img align="left" src="./images/icon_circle.png" width="220">
+<img align="left" src="./images/icon_circle.png" width="300">
 
 <div>
 Hey there! I'm Marcelo
