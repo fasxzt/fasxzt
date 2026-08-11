@@ -24,8 +24,8 @@
 <br clear="left">
 
 <p align="center">
-  <strong>You can click here</strong>
-  <br><br>
+  <strong>Contact</strong>
+  <br>
   <a href="https://www.instagram.com/marceloy2k_/" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
