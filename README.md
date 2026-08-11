@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/fasxzt?style=for-the-badge&color=8888c9">
 </p>
 
-<h2 align="center">Who Am I?</h2>
+<p align="center">Who Am I?</p>
 
 <img align="left" src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="300">
 
