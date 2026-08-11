@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/angel.jpg" width="1024"></p>
+<p align="center"><img src="./images/minimalist banner.jpg" width="1024"></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/fasxzt/fasxzt?style=for-the-badge&color=000000&labelColor=000000">
@@ -8,7 +8,7 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<img align="left" src="./images/iconespreto.jpg" width="220">
+<img align="left" src="./images/icon_circle.png" width="220">
 
 <div>
 Hey there! I'm Marcelo
