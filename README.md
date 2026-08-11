@@ -10,12 +10,9 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="300">
-  <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="300">
-</td>
-<td>
+<img align="left" src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="220">
+
+<div>
 
 Hey there! I'm Marcelo 👋
 
@@ -23,9 +20,9 @@ I am a Software Developer passionate about technology, programming and creating 
 
 Currently, I am focused on improving my skills, learning new technologies and developing projects that allow me to grow as a developer.
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="left">
 
 ---
 
