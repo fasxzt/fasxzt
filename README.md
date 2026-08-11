@@ -26,13 +26,13 @@
 <p align="center">
   <strong>You can click here</strong>
   <br><br>
-  <a href="SEU-LINK-INSTAGRAM">
+  <a href="https://www.instagram.com/marceloy2k_/">
     <img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="SEU-LINK-LINKEDIN">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="SEU-LINK-YOUTUBE">
+  <a href="https://www.youtube.com/@tsohggg">
     <img src="https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
