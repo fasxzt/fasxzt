@@ -6,26 +6,24 @@
   <img src="https://img.shields.io/github/followers/fasxzt?style=for-the-badge&color=8888c9">
 </p>
 
-<table border="0">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="SUA-IMAGEM" width="350">
-    </td>
-    <td width="60%" valign="middle">
-      <h2>Who Am I?</h2>
-      <p>
-        I am a Software Developer passionate about technology,
-        programming and creating complete systems.
-      </p>
-      <p>
-        I enjoy combining logic, creativity and visual design
-        to create modern and functional applications.
-      </p>
-      <p>
-        Currently, I am focused on improving my skills,
-        learning new technologies and developing projects
-        that allow me to grow as a developer.
-      </p>
-    </td>
-  </tr>
-</table>
+<div>
+  <div style="float: left; width: 40%; text-align: center;">
+    <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="350">
+  </div>
+  <div style="margin-left: 42%; padding-top: 40px;">
+    <h2>Who Am I?</h2>
+    <p>
+      I am a Software Developer passionate about technology,
+      programming and creating complete systems.
+    </p>
+    <p>
+      I enjoy combining logic, creativity and visual design
+      to create modern and functional applications.
+    </p>
+    <p>
+      Currently, I am focused on improving my skills, learning new
+      technologies and developing projects that allow me to grow as a developer.
+    </p>
+  </div>
+  <div style="clear: both;"></div>
+</div>
