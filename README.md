@@ -23,4 +23,16 @@
 
 <br clear="left">
 
-<p align="center"> **You can click here** [<img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">](link) [<img src="https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white">](link) [<img src="https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white">](link) </p>
+<p align="center">
+  <strong>You can click here</strong>
+  <br><br>
+  <a href="SEU-LINK-INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="SEU-LINK-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="SEU-LINK-YOUTUBE">
+    <img src="https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
