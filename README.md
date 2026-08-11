@@ -10,7 +10,7 @@
 <img align="left" src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="220">
 
 <div>
-Hey there! I'm Marcelo 👋
+Hey there! I'm Marcelo 
 I am a Software Developer passionate about technology, programming and creating complete systems. I enjoy combining logic, creativity and visual design to create modern and functional applications.
 Currently, I am focused on improving my skills, learning new technologies and developing projects that allow me to grow as a developer.
 </div>
