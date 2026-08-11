@@ -10,7 +10,7 @@
   <tr>
     <!-- ÍCONE -->
     <td width="45%" align="center" valign="middle">
-      <img src="SUA-IMAGEM" width="320px">
+      <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="320px">
     </td>
     <!-- SOBRE MIM -->
     <td width="55%" valign="middle">
