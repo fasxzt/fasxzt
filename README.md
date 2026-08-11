@@ -26,13 +26,13 @@
 <p align="center">
   <strong>You can click here</strong>
   <br><br>
-  <a href="https://www.instagram.com/marceloy2k_/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/marceloy2k_/" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="" style="text-decoration: none;">
+  <a href="" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@tsohggg" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@tsohggg" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
