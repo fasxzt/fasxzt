@@ -10,23 +10,14 @@
   <tr>
     <!-- ÍCONE -->
     <td width="45%" align="center" valign="middle">
-      <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="320px">
-    </td>
-    <!-- DIVISÓRIA -->
-    <td width="1%">
-      <img src="https://dummyimage.com/2x400/555555/555555" width="2px" height="400px">
+      <img src="SUA-IMAGEM" width="320px">
     </td>
     <!-- SOBRE MIM -->
-    <td width="54%" valign="middle">
-      <h2>About me?</h2>
+    <td width="55%" valign="middle">
+      <h2>Who Am I?</h2>
       <p>
         I am a Software Developer passionate about technology,
         programming and creating complete systems.
-      </p>
-      <p>
-        I have experience with web development, working with
-        technologies such as HTML, CSS, JavaScript and other
-        programming languages.
       </p>
       <p>
         I enjoy combining logic, creativity and visual design
