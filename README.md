@@ -61,7 +61,7 @@ Currently, I am focused on improving my skills, learning new technologies and de
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fasxzt&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8888c9&icon_color=8888c9&text_color=eaeaea" />
+  <img src="https://github-readme-stats-two-mocha.vercel.app/api?username=fasxzt&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8888c9&icon_color=8888c9&text_color=eaeaea" />
 </p>
 
 <p align="center">
