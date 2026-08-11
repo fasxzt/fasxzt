@@ -8,14 +8,25 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<img align="left" src="./images/icon_circle.png" width="300">
+<div align="center">
 
-<div>
-Hey there! I'm Marcelo
+  <img src="./images/icon_circle.png" width="250">
 
-I am a Software Developer passionate about technology, programming and creating complete systems. I enjoy combining logic, creativity and visual design to create modern and functional applications.
+  <h3>Hey there! I'm Marcelo 👋</h3>
 
-Currently, I am focused on improving my skills, learning new technologies and developing projects that allow me to grow as a developer.
+  <p>
+    I am a Software Developer passionate about technology,
+    programming and creating complete systems.
+    I enjoy combining logic, creativity and visual design
+    to create modern and functional applications.
+  </p>
+
+  <p>
+    Currently, I am focused on improving my skills,
+    learning new technologies and developing projects
+    that allow me to grow as a developer.
+  </p>
+
 </div>
 
 <br clear="left">
