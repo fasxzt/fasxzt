@@ -11,24 +11,37 @@
 <div>
   <img align="left" src="./images/icon_circle.png" width="250">
 
-  <h3>Hey there! I'm Marcelo 👋</h3>
+  <h3>Hey there! I'm Marcelo </h3>
 
   <p>
-    I am a Software Developer passionate about technology,
-    programming and creating complete systems.
-    I enjoy combining logic, creativity and visual design
-    to create modern and functional applications.
+    I am a Software Developer passionate about technology, programming
+    and creating complete systems. I enjoy combining logic, creativity
+    and visual design to build modern and functional applications.
   </p>
 
   <p>
-    Currently, I am focused on improving my skills,
-    learning new technologies and developing projects
-    that allow me to grow as a developer.
+    I work mainly with web development, using technologies such as
+    HTML, CSS and JavaScript. I also have experience with C#, Python,
+    SQL and Git, and I am constantly exploring new technologies to
+    improve my development skills.
+  </p>
+
+  <p>
+    I am currently developing projects that combine programming,
+    interface design and problem solving. One of my projects is
+    nucleaAI, a study-focused platform that combines web development
+    with artificial intelligence.
+  </p>
+
+  <p>
+    I also enjoy working with databases and software development,
+    learning how different technologies can work together to create
+    complete systems. I am always looking for new challenges and
+    opportunities to improve as a developer.
   </p>
 </div>
 
 <br clear="left">
-
 
 <h3 align="center">Top Projects</h3>
 
