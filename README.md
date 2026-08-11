@@ -10,7 +10,7 @@
 
 <img align="left" src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="300">
 
-<h2>Hey there! I'm Marcelo </h2>
+<p>Hey there! I'm Marcelo </p>
 
 <p>
   I am a Software Developer passionate about technology,
