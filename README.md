@@ -19,11 +19,14 @@ Currently, I am focused on improving my skills, learning new technologies and de
 
 <h3 align="center">Top Projects</h3>
 
-<div align="center">
-
-[![nucleaAI](https://img.shields.io/badge/nucleaAI-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/nucleaAI-v2) [![safeHer](https://img.shields.io/badge/safeHer-8888c9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/fasxzt/safeHer) [![Wand-Enhancer](https://img.shields.io/badge/Wand--Enhancer-8888c9?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/fasxzt/Wand-Enhancer)
-
-</div>
+<p>
+  <a href="https://github.com/fasxzt/nucleaAI-v2"><img src="https://img.shields.io/badge/-nucleaAI-000000?style=flat-square&logo=github&logoColor=white"></a>
+  DESCRIÇÃO_CURTA_DO_NUCLEA_AQUI
+</p>
+<p>
+  <a href="https://github.com/fasxzt/safeHer"><img src="https://img.shields.io/badge/-safeHer-000000?style=flat-square&logo=github&logoColor=white"></a>
+  DESCRIÇÃO_CURTA_DO_SAFEHER_AQUI
+</p>
 
 <h3 align="center">Tech Stack</h3>
 
