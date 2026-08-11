@@ -21,7 +21,7 @@ Currently, I am focused on improving my skills, learning new technologies and de
 
 <div align="center">
   
-[![Nuclea-Ai](https://img.shields.io/badge/Meu--site-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/nucleaAI-v2)
+[![nucleaAI-v2](https://img.shields.io/badge/Meu--site-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/nucleaAI-v2)
 [![safeHer](https://img.shields.io/badge/safeHer-8888c9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/fasxzt/safeHer)
 [![Wand-Enhancer](https://img.shields.io/badge/Wand--Enhancer-8888c9?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/fasxzt/Wand-Enhancer)
 
