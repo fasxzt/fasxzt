@@ -8,26 +8,25 @@
 
 <h2 align="center">Who Am I?</h2>
 
-<table style="border: none;">
-  <tr>
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="SUA-IMAGEM" width="250">
-    </td>
-    <td width="65%" valign="middle" style="border: none;">
-      <h3>Hey there! I'm Marcelo 👋</h3>
-      <p>
-        I am a Software Developer passionate about technology,
-        programming and creating complete systems.
-      </p>
-      <p>
-        I enjoy combining logic, creativity and visual design
-        to create modern and functional applications.
-      </p>
-      <p>
-        Currently, I am focused on improving my skills,
-        learning new technologies and developing projects
-        that allow me to grow as a developer.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display: inline-block; width: 35%; vertical-align: middle;">
+    <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="250">
+  </div>
+
+  <div style="display: inline-block; width: 60%; vertical-align: middle; text-align: left;">
+    <h3>Hey there! I'm Marcelo 👋</h3>
+    <p>
+      I am a Software Developer passionate about technology,
+      programming and creating complete systems.
+    </p>
+    <p>
+      I enjoy combining logic, creativity and visual design
+      to create modern and functional applications.
+    </p>
+    <p>
+      Currently, I am focused on improving my skills, learning new
+      technologies and developing projects that allow me to grow as a developer.
+    </p>
+  </div>
+</div>
