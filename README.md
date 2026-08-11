@@ -8,9 +8,8 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<div align="center">
-
-  <img src="./images/icon_circle.png" width="250">
+<div>
+  <img align="left" src="./images/icon_circle.png" width="250">
 
   <h3>Hey there! I'm Marcelo 👋</h3>
 
@@ -26,10 +25,10 @@
     learning new technologies and developing projects
     that allow me to grow as a developer.
   </p>
-
 </div>
 
 <br clear="left">
+
 
 <h3 align="center">Top Projects</h3>
 
