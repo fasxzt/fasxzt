@@ -10,7 +10,7 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="300">
   <img src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="300">
@@ -31,35 +31,33 @@ Currently, I am focused on improving my skills, learning new technologies and de
 
 <h3 align="center">🚀 Top Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/fasxzt/Meu-site"><img src="https://img.shields.io/badge/Meu--site-8888c9?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/fasxzt/safeHer"><img src="https://img.shields.io/badge/safeHer-8888c9?style=for-the-badge&logo=javascript&logoColor=white"></a>
-  <a href="https://github.com/fasxzt/Wand-Enhancer"><img src="https://img.shields.io/badge/Wand--Enhancer-8888c9?style=for-the-badge&logo=csharp&logoColor=white"></a>
-</p>
+<div align="center">
+
+[![Meu-site](https://img.shields.io/badge/Meu--site-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/Meu-site)
+[![safeHer](https://img.shields.io/badge/safeHer-8888c9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/fasxzt/safeHer)
+[![Wand-Enhancer](https://img.shields.io/badge/Wand--Enhancer-8888c9?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/fasxzt/Wand-Enhancer)
+
+</div>
 
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,vscode" />
-</p>
+</div>
 
 ---
 
 <h3 align="center">Contact</h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/marceloy2k_/">
-    <img src="https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@tsohggg">
-    <img src="https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</p>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloy2k_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
+[![YouTube](https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tsohggg)
+
+</div>
 
 ---
 
