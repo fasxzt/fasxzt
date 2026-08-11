@@ -19,13 +19,13 @@ Currently, I am focused on improving my skills, learning new technologies and de
 
 <h3 align="center">Top Projects</h3>
 
-<div align="center">
-  
-[![nucleaAI-v2](https://img.shields.io/badge/Meu--site-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/nucleaAI-v2)
+<p align="center">
+
+[![nucleaAI](https://img.shields.io/badge/nucleaAI-8888c9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/fasxzt/nucleaAI-v2)
 [![safeHer](https://img.shields.io/badge/safeHer-8888c9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/fasxzt/safeHer)
 [![Wand-Enhancer](https://img.shields.io/badge/Wand--Enhancer-8888c9?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/fasxzt/Wand-Enhancer)
 
-</div>
+</p>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -37,13 +37,13 @@ Currently, I am focused on improving my skills, learning new technologies and de
 
 <h3 align="center">Contact</h3>
 
-<div align="center">
-  
+<p align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-8888c9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloy2k_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8888c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-antonio-8ba9b7303/)
 [![YouTube](https://img.shields.io/badge/YouTube-8888c9?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tsohggg)
 
-</div>
+</p>
 
 <h3 align="center">GitHub Stats</h3>
 
