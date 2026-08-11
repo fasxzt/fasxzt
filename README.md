@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/github/followers/fasxzt?style=for-the-badge&color=8888c9">
 </p>
 
-<p align="center">Know About Me?</p>
+<h3 align="center">Know About Me?</h3>
 
 <img align="left" src="./images/1523acd2a280c05ac9f0d79a2c7f57c4.jpg" width="300">
 
-<h3>Hey there! I'm Marcelo </h3>
+<h2>Hey there! I'm Marcelo </h2>
 
 <p>
   I am a Software Developer passionate about technology,
