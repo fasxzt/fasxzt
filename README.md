@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/black.jpg" width="1024"></p>
+<p align="center"><img src="./images/cyber mercury.jpg" width="1024"></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/fasxzt/fasxzt?style=for-the-badge&color=000000&labelColor=000000">
