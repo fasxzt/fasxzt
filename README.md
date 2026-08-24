@@ -8,10 +8,11 @@
 
 <img align="left" src="./images/icon_circle.gif" width="320">
 <img align="left" src="./images/spacer.png" width="30">
+<img align="right" src="./images/spacer.png" width="120">
 
 <div>
 
-Hey there! I'm Marcelo
+#### Hey there! I'm Marcelo 👋
 
 I am a Software Developer passionate about technology, programming and creating complete systems. I enjoy combining logic, creativity and visual design to build modern and functional applications. I work mainly with web development, using technologies such as HTML, CSS and JavaScript. I also have experience with C#, Python, SQL and Git, and I am constantly exploring new technologies to improve my development skills.
 
