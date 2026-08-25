@@ -10,11 +10,9 @@
 
 <div>
 
-#### Hey there! I'm Marcelo 👋
+Hey there! I'm Marcelo 👋
 
-I am a Software Developer passionate about technology, programming and creating complete systems. I enjoy combining logic, creativity and visual design to build modern and functional applications. I work mainly with web development, using technologies such as HTML, CSS and JavaScript. I also have experience with C#, Python, SQL and Git, and I am constantly exploring new technologies to improve my development skills.
-
-I am currently developing projects that combine programming, interface design and problem solving. One of my projects is nucleaAI, a study-focused platform that combines web development with artificial intelligence. I also enjoy working with databases and software development, learning how different technologies can work together to create complete systems. I am always looking for new challenges and opportunities to improve as a developer.
+I am a Software Developer passionate about technology, programming and creating complete systems. I enjoy combining logic, creativity and visual design to build modern and functional applications. I work mainly with web development, using technologies such as HTML, CSS and JavaScript. I also have experience with C#, Python, SQL and Git, and I am constantly exploring new technologies to improve my development skills. I am currently developing projects that combine programming, interface design and problem solving. One of my projects is nucleaAI, a study-focused platform that combines web development with artificial intelligence. I also enjoy working with databases and software development, learning how different technologies can work together to create complete systems. I am always looking for new challenges and opportunities to improve as a developer.
 
 </div>
 
