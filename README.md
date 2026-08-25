@@ -33,7 +33,13 @@ I am currently developing projects that combine programming, interface design an
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge" />
 </div>
 
 <h3 align="center">Contact</h3>
