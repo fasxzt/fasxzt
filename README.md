@@ -8,7 +8,7 @@
 
 <h3 align="center">Know About Me?</h3>
 
-<img align="left" src="./images/planeta-azul.png" width="370">
+<img align="left" src="./images/angel.png" width="370">
 
 <div>
 
