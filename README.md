@@ -54,23 +54,12 @@ I am currently developing projects that combine programming, interface design an
   <img src="https://streak-stats.demolab.com/?user=fasxzt&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff" />
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasxzt&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasxzt&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasxzt&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasxzt&theme=github_dark" />
+  <img src="https://topezeira-nu.vercel.app/graph?username=fasxzt&theme=react-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10&hide_title=true&days=60" />
 </p>
 
 <blockquote>
 <p align="center">
   Code is never finished. It only becomes slightly less terrible over time.
 </p>
-</blockquote>
+</blockquote> 
