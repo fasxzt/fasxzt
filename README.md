@@ -7,8 +7,6 @@
 <h3 align="center">Know About Me?</h3>
 
 <img align="left" src="./images/icon_circle.gif" width="320">
-<img align="left" src="./images/spacer.png" width="40">
-<img align="right" src="./images/spacer.png" width="120">
 
 <div>
 
