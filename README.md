@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">Know About Me?</h3>
 
-<img align="left" src="./images/icon_circle.gif" width="120">
+<img align="left" src="./images/icon_circle.gif" width="370">
 
 <div>
 
